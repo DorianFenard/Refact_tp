@@ -1,6 +1,6 @@
 package org.iut.refactoring;
 
-class GestionApp {
+public class GestionApp {
     public static void main(String[] args) {
         GestionPersonnel app = new GestionPersonnel();
         
