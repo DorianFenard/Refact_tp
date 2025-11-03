@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.iut.GestionAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-03T15:36:05.824Z" hostname="MacBook-Pro-de-Dorian.local" time="0.019">
+  <properties/>
+  <testcase name="testMainExecution()" classname="org.iut.GestionAppTest" time="0.019"/>
+  <system-out><![CDATA[Salaire de Alice: 69000.0 €
+Bonus de Alice: 7500.0 €
+=== RAPPORT: SALAIRE ===
+Alice: 69000.0 €
+Charlie: 12000.0 €
+Dan: 79695.0 €
+=== RAPPORT: DIVISION ===
+RH: 1 employés
+IT: 3 employés
+Employé promu avec succès!
+=== LOGS ===
+2025-11-03T16:36:05.832450 - Ajout de l'employé: Alice
+2025-11-03T16:36:05.834238 - Ajout de l'employé: Bob
+2025-11-03T16:36:05.834407 - Ajout de l'employé: Charlie
+2025-11-03T16:36:05.834438 - Ajout de l'employé: Dan
+2025-11-03T16:36:05.836940 - Rapport généré: SALAIRE
+2025-11-03T16:36:05.838553 - Rapport généré: DIVISION
+2025-11-03T16:36:05.838583 - Employé promu: Alice
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
